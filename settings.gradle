@@ -1,2 +1,0 @@
-rootProject.name = "webtoapk-android-v2"
-include(":app")
